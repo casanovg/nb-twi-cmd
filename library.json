@@ -1,0 +1,11 @@
+{
+    "name": "nb-twi-cmd",
+    "keywords": "nb-twi-cmd, i2c, twi, communications, protocol, command set",
+    "description": "Declares the communication protocol over TWI (I2C).",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/casanovg/lib-nb-twi-cmd.git"
+    },
+    "include": "src",
+    "version": "0.5.0"
+}

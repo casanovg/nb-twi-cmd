@@ -1,2 +1,2 @@
 # nb-twi-cmd
-NB TWI command set.
+NB TWI (I2C) Command Set

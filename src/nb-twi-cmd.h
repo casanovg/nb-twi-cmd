@@ -1,7 +1,7 @@
 // ***********************************************************
 // *  NB TWI Command Set                                     *
 // *  ==================                                     *
-// *  This file delares the NB comm protocol over TWI (I2C)  *
+// *  This file declares the NB comm protocol over TWI (I2C) *
 // *  .....................................................  *
 // *  Author: Gustavo Casanova / Nicebots                    *
 // *  .....................................................  *

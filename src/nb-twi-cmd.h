@@ -12,7 +12,7 @@
 #ifndef _NB_I2C_CMD_H_
 #define _NB_I2C_CMD_H_
 
-// https://drive.google.com/file/d/1nCHEmNAY3GiRN2ozxNzXOGH3lyI5bDXu/view
+// [Source:](https://github.com/casanovg/nb-twi-cmd/raw/master/extras/Nicebots-Pluggie-I2C-Commands-v06.xlsx)
 
 #define NO_OP    0x00 // Command Nop - Unknown
 #define UNKNOWNC 0xFF // Acknowledge Nop - Unknown command

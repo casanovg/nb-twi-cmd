@@ -9,8 +9,8 @@
 // *  2020-06-21 gustavo.casanova@nicebots.com            *
 // ********************************************************
 
-#ifndef _NB_TWI_CMD_H_
-#define _NB_TWI_CMD_H_
+#ifndef NB_TWI_CMD_H
+#define NB_TWI_CMD_H
 
 // https://github.com/casanovg/nb-twi-cmd/raw/master/extras/Nicebots-Pluggie-I2C-Commands.xlsx
 
@@ -59,4 +59,4 @@
 #define WRITBUFF 0xDB /* Command Write Data To App Fw Buffer */
 #define ACKWTBUF 0x24 /* Acknowledge Write Data To App Fw Buffer command */
 
-#endif  // _NB_TWI_CMD_H_
+#endif  // NB_TWI_CMD_H

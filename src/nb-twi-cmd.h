@@ -34,6 +34,10 @@
 #define ACKRDFSH 0x78 /* Acknowledge Read Data From Flash Memory command */
 #define READDEVS 0x88 /* Command Read Device Signature */
 #define ACKRDEVS 0x77 /* Acknowledge Read Device Signature command */
+#define WRITEEPR 0x89 /* Command Write Byte To EEPROM */
+#define ACKWTEEP 0x76 /* Acknowledge Write Byte To EEPROM command */
+#define READEEPR 0x8A /* Command Read Byte From EEPROM */
+#define ACKRDEEP 0x75 /* Acknowledge Read Byte From EEPROM command */
 
 #define SETIO1_0 0x92 /* Command Set Io Port 1 = 0 */
 #define ACKIO1_0 0x6D /* Acknowledge Set Io Port 1 = 0 command */

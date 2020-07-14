@@ -6,7 +6,7 @@
 // *  Author: Gustavo Casanova  / Nicebots                *
 // *  ..................................................  *
 // *  Version: 0.7.0                                      *
-// *  2020-06-21 gustavo.casanova@nicebots.com            *
+// *  2020-07-13 gustavo.casanova@nicebots.com            *
 // ********************************************************
 
 #ifndef NB_TWI_CMD_H

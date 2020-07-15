@@ -6,5 +6,16 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/casanovg/nb-twi-cmd.git"
-    }
+    },
+    "examples": [
+        "[Ee]xamples/*.c",
+        "[Ee]xamples/*.cpp",
+        "[Ee]xamples/*.ino",
+        "[Ee]xamples/*/*.c",
+        "[Ee]xamples/*/*.cpp",
+        "[Ee]xamples/*/*.ino",
+        "[Ee]xamples/*/*/*.c",
+        "[Ee]xamples/*/*/*.cpp",
+        "[Ee]xamples/*/*/*.ino"
+    ]    
 }
